@@ -1,0 +1,24 @@
+START;
+
+Xxx ab;
+xx CD;
+XX-XXX eF;   
+XX-XXX gh;
+xx lm;
+
+MAIN;
+INPUT ab;
+INPUT cd, gh;
+
+AB EQUALS-TO-VALUE 152;
+cd EQUALS-TO-VALUE 15;
+ef EQUALS-TO GH;
+
+ADD ef TO gh;
+ADD cd TO lm;
+ADD 100 to ab;
+add 12.020 to ef;
+
+print "hello:", ab, "oho", gh;
+
+END;

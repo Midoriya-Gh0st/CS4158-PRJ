@@ -1,0 +1,36 @@
+START;
+
+Xxx WT;
+xxx xY;
+XX-XXX ys;   
+x W;
+XX-XX Z;
+XX-XX M;
+XX-XX M;
+X-XX X175B;
+XXXX xy75b0A;
+XXXXX abcdefgh;
+xx-xxx xxx;
+xx-xx -yzxy;
+
+.
+
+MAIN;
+INPUT YS;
+INPUT YS, AB, CD;
+
+M EQUALS-TO-VALUE 15.00;
+Z EQUALS-TO-VALUE 15;
+XY EQUALS-TO WT;
+WT EQUALS-TO-VALUE 15;
+WT EQUALS-TO XY;
+
+ADD YS TO Z;
+ADD 1 to WT;
+add 1.0 to Z;
+add 2.0 to Z;
+print ad;
+print "hello:", ad, "oho", ce;
+print "hello:", z, Wx, XY, wt;
+
+END;
